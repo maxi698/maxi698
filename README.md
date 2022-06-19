@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxi698
-- 👀 I’m interested in JavaScript NodeJS PHP Java
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested in JavaScript NodeJS PHP Java Flutter
+- 🌱 I’m currently learning VueJS and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
